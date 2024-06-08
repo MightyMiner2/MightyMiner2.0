@@ -1,6 +1,6 @@
 # MightyMiner2.0
 # How to download 
-to Releases
+ Go to Releases
 And there download Mighty_Miner_2.0.jar the first one that says after that put the mod in the mods folder and run the game
 # Mighty Miner Feature Explanation
 
